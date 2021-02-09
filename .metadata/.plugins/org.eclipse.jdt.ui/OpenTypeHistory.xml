@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=TrainingFirstProject/C:\/Program Files\/AdoptOpenJDK\/jdk-8.0.232.09-hotspot\/jre\/lib\/rt.jar&lt;java.io(Serializable.class[Serializable" modifiers="1537" timestamp="1571392534000"/>
+<typeInfo handle="=BMS/src&lt;com.mphasis.training.ass.pojos{Account.java[Account" modifiers="1025" timestamp="1583495769581"/>
+<typeInfo handle="=Assignment1/C:\/Program Files\/AdoptOpenJDK\/jdk-8.0.232.09-hotspot\/jre\/lib\/rt.jar&lt;java.lang(Double.class[Double" modifiers="49" timestamp="1571392534000"/>
+<typeInfo handle="=TrainingFirstProject/C:\/Program Files\/AdoptOpenJDK\/jdk-8.0.232.09-hotspot\/jre\/lib\/rt.jar&lt;java.lang(Character.class[Character" modifiers="49" timestamp="1571392534000"/>
+<typeInfo handle="=Assignment1/C:\/Program Files\/AdoptOpenJDK\/jdk-8.0.232.09-hotspot\/jre\/lib\/rt.jar&lt;java.lang(Exception.class[Exception" modifiers="33" timestamp="1571392534000"/>
+<typeInfo handle="=Assignment1/C:\/Program Files\/AdoptOpenJDK\/jdk-8.0.232.09-hotspot\/jre\/lib\/rt.jar&lt;java.io(FileOutputStream.class[FileOutputStream" modifiers="33" timestamp="1571392534000"/>
+<typeInfo handle="=Assignment1/C:\/Program Files\/AdoptOpenJDK\/jdk-8.0.232.09-hotspot\/jre\/lib\/rt.jar&lt;java.io(OutputStream.class[OutputStream" modifiers="1057" timestamp="1571392534000"/>
+<typeInfo handle="=Assignment1/C:\/Program Files\/AdoptOpenJDK\/jdk-8.0.232.09-hotspot\/jre\/lib\/rt.jar&lt;java.lang(Thread.class[Thread" modifiers="33" timestamp="1571392534000"/>
+<typeInfo handle="=Assignment1/C:\/Program Files\/AdoptOpenJDK\/jdk-8.0.232.09-hotspot\/jre\/lib\/rt.jar&lt;java.util.concurrent(Executors.class[Executors" modifiers="33" timestamp="1571392534000"/>
+<typeInfo handle="=Assignment1/C:\/Program Files\/AdoptOpenJDK\/jdk-8.0.232.09-hotspot\/jre\/lib\/rt.jar&lt;java.lang(String.class[String" modifiers="49" timestamp="1571392534000"/>
+<typeInfo handle="=Assignment1/C:\/Program Files\/AdoptOpenJDK\/jdk-8.0.232.09-hotspot\/jre\/lib\/rt.jar&lt;java.util(Collection.class[Collection" modifiers="1537" timestamp="1571392534000"/>
+<typeInfo handle="=Assignment1/C:\/Program Files\/AdoptOpenJDK\/jdk-8.0.232.09-hotspot\/jre\/lib\/rt.jar&lt;java.util(List.class[List" modifiers="1537" timestamp="1571392534000"/>
+<typeInfo handle="=Assignment1/C:\/Program Files\/AdoptOpenJDK\/jdk-8.0.232.09-hotspot\/jre\/lib\/rt.jar&lt;java.util(ArrayList.class[ArrayList" modifiers="33" timestamp="1571392534000"/>
+<typeInfo handle="=Assignment1/C:\/Program Files\/AdoptOpenJDK\/jdk-8.0.232.09-hotspot\/jre\/lib\/rt.jar&lt;java.util(Vector.class[Vector" modifiers="33" timestamp="1571392534000"/>
+<typeInfo handle="=Assignment1/C:\/Program Files\/AdoptOpenJDK\/jdk-8.0.232.09-hotspot\/jre\/lib\/rt.jar&lt;java.lang(Integer.class[Integer" modifiers="49" timestamp="1571392534000"/>
+<typeInfo handle="=TrainingFirstProject/src&lt;com.mphasis.training.services{ProductService.java[ProductService" modifiers="513" timestamp="1584002174599"/>
+<typeInfo handle="=HotelProject/src&lt;com.mphasis.training.service{UserService.java[UserService" modifiers="513" timestamp="1584088653414"/>
+<typeInfo handle="=HotelProject/C:\/Program Files\/AdoptOpenJDK\/jdk-8.0.232.09-hotspot\/jre\/lib\/rt.jar&lt;org.omg.PortableInterceptor(USER_EXCEPTION.class[USER_EXCEPTION" modifiers="1537" timestamp="1571392534000"/>
+<typeInfo handle="=HotelProject/src&lt;com.mphasis.training.service{RoomService.java[RoomService" modifiers="513" timestamp="1584088822238"/>
+<typeInfo handle="=Assignment1/C:\/Program Files\/AdoptOpenJDK\/jdk-8.0.232.09-hotspot\/jre\/lib\/rt.jar&lt;java.util(Date.class[Date" modifiers="33" timestamp="1571392534000"/>
+<typeInfo handle="=Assignment1/C:\/Program Files\/AdoptOpenJDK\/jdk-8.0.232.09-hotspot\/jre\/lib\/rt.jar&lt;java.text(SimpleDateFormat.class[SimpleDateFormat" modifiers="33" timestamp="1571392534000"/>
+</typeInfoHistroy>
